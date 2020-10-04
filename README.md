@@ -4,7 +4,7 @@
 1. Open Unturned
 2. Go to workshop
 3. Press Shift + F1
-4. Generate Icons
+4. Generate All Icons (It will take a few minutes, do not close unturned)
 5. You can found the icons in Your Unturned Folder/Extras/Icons
 
 ## Github
