@@ -13,7 +13,7 @@
 
 ## Github
 1. Create your own Repositorie.
-2. Upload your icons into it.
+2. Upload your icons into it. (Warning! You can upload maximum 1000 files per folder!)
 3. Copy the link of the Repositorie
 
 ## Plugin
