@@ -5,7 +5,9 @@
 2. Go to workshop
 3. Press Shift + F1
 4. Generate All Icons (It will take a few minutes, do not close unturned)
-5. You can found the icons in Your Unturned Folder/Extras/Icons
+5. Start your server
+6. Type /renameitemicons (It will take a few minutes, wait until it says "done")
+7. You can found the icons in Your Unturned Folder/Extras/Icons
 
 ## Github
 1. Create your own Repositorie.
