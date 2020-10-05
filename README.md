@@ -21,5 +21,8 @@ If you don't have homemade server then please make one for the time of icon crea
 
 ## Plugin
 1. Open the config file of TShop
-2. Change GithubIconsLink to the link of your repositorie
-3. Save it
+2. Create new GithubFolder (copy and paste)
+3. Change the minimum and the maximum item ID.
+4. Open an image on Github, Right Click, Click "Open Image on new window". Copy the link, but remove that <imagename>.png
+5. Paste that link as FolderLink into the config file
+6. Save it
