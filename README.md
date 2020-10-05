@@ -3,7 +3,7 @@
 # Work In Progress
 
 ## Server
-If you don't have homemade server then please make one for the time of icon creating. The /renameitemicons command won't work on hosted servers because you generated the icons on your PC not on ,,your" server.
+If you don't have homemade server then please make one for the time of icon creating. The /renameitemicons command won't work on hosted servers because you generated the icons on your PC, not on ,,your" server.
 
 ## Unturned
 1. Open Unturned
@@ -17,12 +17,11 @@ If you don't have homemade server then please make one for the time of icon crea
 ## Github
 1. Create your own Repositorie.
 2. Upload your icons into it. (Warning! You can upload maximum 1000 files per folder!)
-3. Copy the link of the Repositorie
 
 ## Plugin
 1. Open the config file of TShop
-2. Create new GithubFolder (copy and paste)
+2. (If you need) create a new GithubFolder (copy and paste)
 3. Change the minimum and the maximum item ID.
-4. Open an image on Github, Right Click, Click "Open Image on new window". Copy the link, but remove that <imagename>.png
+4. Open an image on Github, Right Click, Click "Open Image on new window". Copy the link, but remove <imagename>.png
 5. Paste that link as FolderLink into the config file
 6. Save it
