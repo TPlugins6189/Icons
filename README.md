@@ -2,6 +2,9 @@
 
 # Work In Progress
 
+## Attention
+Please do not upload the vanilla icons. I uploaded all vanilla item icons.
+
 ## Server
 If you don't have homemade server then please make one for the time of icon creating. The /renameitemicons command won't work on hosted servers because you generated the icons on your PC, not on ,,your" server.
 
