@@ -18,7 +18,7 @@ If you don't have homemade server then please make one for the time of icon crea
 7. You can found the icons in Your Unturned Folder/Extras/Icons
 
 ### Github
-1. Create your own Repositorie.
+1. Create your own repository.
 2. Upload your icons into it. (Warning! You can upload maximum 1000 files per folder!)
 
 ### Plugin
