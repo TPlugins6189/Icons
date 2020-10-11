@@ -13,9 +13,9 @@ If you don't have homemade server then please make one for the time of icon crea
 2. Go to workshop
 3. Press Shift + F1
 4. Generate All Icons (It will take a few minutes, do not close unturned)
-5. Start your server
+5. Start your homemade server
 6. Type /renameitemicons (It will take a few minutes, wait until it says "done")
-7. You can found the icons in Your Unturned Folder/Extras/Icons
+7. You can found the icons in 'Your Unturned Folder/Extras/Icons'
 
 ### Github
 1. Create your own repository.
@@ -25,6 +25,6 @@ If you don't have homemade server then please make one for the time of icon crea
 1. Open the config file of TShop
 2. (If you need) create a new GithubFolder (copy and paste)
 3. Change the minimum and the maximum item ID.
-4. Open an image on Github, Right Click, Click "Open Image on new window". Copy the link, but remove <imagename>.png
+4. Open an image on Github, Right Click, Click "Open Image on new window". Copy its link, but remove <imagename>.png
 5. Paste that link as FolderLink into the config file
 6. Save it
