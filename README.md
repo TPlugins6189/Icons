@@ -1,5 +1,7 @@
 # How to add custom icons for TShop? (Work In Progress)
 
+For TShop 3.1.0 and above.
+
 ## Attention
 Please do not upload the vanilla icons. I uploaded all vanilla item icons.
 
